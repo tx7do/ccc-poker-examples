@@ -1,10 +1,10 @@
 import {_decorator, Component, Node} from 'cc';
-import {Card} from "db://assets/scripts/one_sprite/card";
+import {Card} from "./card";
 
 const {ccclass, property} = _decorator;
 
-@ccclass('one_sprite_card_scene')
-export class OneSpriteCardScene extends Component {
+@ccclass('tween_flip_card_scene')
+export class TweenFlipCardScene extends Component {
     @property(Card)
     card: Card = null;
 

@@ -1,7 +1,7 @@
 [
   {
     "__type__": "cc.Prefab",
-    "_name": "one_sprite_card",
+    "_name": "tween_flip_card",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_native": "",
@@ -13,7 +13,7 @@
   },
   {
     "__type__": "cc.Node",
-    "_name": "one_sprite_card",
+    "_name": "tween_flip_card",
     "_objFlags": 0,
     "__editorExtras__": {},
     "_parent": null,
